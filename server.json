@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/gunbroker",
   "title": "Gunbroker",
   "description": "GunBroker MCP Pack — wraps the GunBroker firearms-marketplace API.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/gunbroker",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gunbroker",
