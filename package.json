@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-gunbroker",
-  "version": "0.2.1",
-  "description": "GunBroker MCP Pack — wraps the GunBroker firearms-marketplace API.",
+  "version": "0.2.2",
+  "description": "Unofficial GunBroker MCP Pack — wraps the GunBroker firearms-marketplace API.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gunbroker",
     "gatewaySlug": "gunbroker",
-    "sourceHash": "v1-bcf6adaf6a1769711c60568ec80fb1394911e6c925edfab5cef09f6b9ba23b5b",
-    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
+    "sourceHash": "v1-58202e586b6539f4e483dd55a2b135583f6d0abcc2eefcffb09a1d23948ace9e",
+    "sourceCommit": "874331b0c46b151f9264bd14840631427a7721c1"
   }
 }
